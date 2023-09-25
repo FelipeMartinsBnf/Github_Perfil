@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Quicksand', sans-serif;
+    color: var(--textC);
+}
+
+main{
+    background-color: #22272e;
+}
+
+.container{
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+:root {
+    --MainC: rgb(34, 39, 46);
+    --SecC:  rgb(45, 51, 59);
+    --textC: #adbac2;
+    --btnsBackgroundC : #444c56;
+    --btnsBorder: #768390;
+}
